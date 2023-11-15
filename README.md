@@ -1,4 +1,5 @@
 # ManagerLeague
+a solution for manager amateurs leagues for differents sports
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
